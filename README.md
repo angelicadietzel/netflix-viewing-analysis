@@ -1,4 +1,4 @@
-# Netflix Viewing Analysis
+# netflix-viewing-analysis
 
 ## Table of Contents
 * [Objective](#objective)
