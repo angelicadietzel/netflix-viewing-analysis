@@ -1,2 +1,16 @@
-# netflix-viewing-analysis
-Analyzed personal data to understand my viewing habits on Netflix.
+# Netflix Viewing Analysis
+
+## Table of Contents
+* [Objective](#objective)
+* [Technologies](#technologies)
+* [Data Sets](#data-sets)
+
+## Objective
+The purpose of this project is to analyze personal data to understand my Netflix viewing habits.
+- Jupyter Notebook
+- pandas
+- matplotlib
+
+## Data Sets
+- A [data set](https://github.com/angelicadietzel/netflix-viewing-analysis/blob/main/netflix-analysis/ViewingActivity.csv) of my personal Netflix viewing history. 
+
