@@ -12,5 +12,5 @@ The purpose of this project is to analyze personal data to understand my Netflix
 - matplotlib
 
 ## Data Sets
-- A [data set](https://github.com/angelicadietzel/netflix-viewing-analysis/blob/main/netflix-analysis/ViewingActivity.csv) of my personal Netflix viewing history. 
+- A [data set](https://github.com/angelicadietzel/netflix-viewing-analysis/blob/main/netflix-analysis/schitts.csv) of my personal Netflix viewing history. 
 
